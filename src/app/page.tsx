@@ -36,11 +36,15 @@ export default function Home() {
               style={{
                 display: "flex",
                 justifyContent: "center",
-                alignItems: "center",
                 height: "93vh",
               }}
             >
               <div>
+                <h1 style={{ fontFamily: "cursive" }}>
+                  <Center>HAPPY</Center>
+                  <Center>2ND</Center>
+                  <Center>ANNIVERSARY!</Center>
+                </h1>
                 <h3>1 2,</h3>
                 <h3>I love you so much.</h3>
               </div>
