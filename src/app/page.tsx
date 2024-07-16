@@ -36,7 +36,6 @@ export default function Home() {
               style={{
                 display: "flex",
                 justifyContent: "center",
-                alignItems: "center",
                 height: "93vh",
               }}
             >
