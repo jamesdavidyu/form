@@ -14,8 +14,8 @@ import { ColorSchemeScript, MantineProvider, Button, Box } from "@mantine/core";
 // const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "1 2, Happy 2nd Anniversary!!",
-  description: "An anniversary card for the best wife ever!!",
+  title: "엄마, 생신추하해요!",
+  description: "An birthday card for the best mom ever!!",
 };
 
 export default function RootLayout({
@@ -29,7 +29,7 @@ export default function RootLayout({
         <head>
           <ColorSchemeScript />
         </head>
-        <body style={{ backgroundColor: "pink" }}>
+        <body style={{ backgroundColor: "teal" }}>
           <MantineProvider>
             <SignedOut>
               <Box
@@ -42,7 +42,7 @@ export default function RootLayout({
               >
                 <SignInButton>
                   <Button bg="white" c="black">
-                    Only for 1 2
+                    To 어머니
                   </Button>
                 </SignInButton>
               </Box>
