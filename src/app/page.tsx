@@ -55,7 +55,9 @@ export default function Home() {
                 </h3>
                 <h3>사랑해요,</h3>
                 <h3>아들</h3>
-                <h3>어머님~ 생신 축하드려요~ 항상 맛있는 것과, 아름다운 것 그리고 건강과 사랑이 가득한 하루하루 되시길 바라요! 며느리 드림</h3>
+                <h3>어머님~</h3>
+                 <h3>생신 축하드려요~ 항상 맛있는 것과, 아름다운 것 그리고 건강과 사랑이 가득한 하루하루 되시길 바라요!</h3>
+                 <h3>며느리 드림</h3>
               </div>
             </Box>
           </GridCol>
@@ -86,16 +88,6 @@ export default function Home() {
             </Box>
           </GridCol>
         </Grid>
-      </div>
-      <div
-        style={{
-          display: "flex",
-          justifyContent: "right",
-          paddingRight: "20px",
-          paddingBottom: "20px",
-        }}
-      >
-        <UserButton />
       </div>
     </main>
   );
