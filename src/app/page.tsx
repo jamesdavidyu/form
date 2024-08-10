@@ -22,14 +22,12 @@ export default function Home() {
                     from here...
                   </h3>
                 </Center>
-                <p>
-                  <Center>
-                    <img
-                      src="https://utfs.io/f/2098394a-6691-4098-9d7d-a73a17a8e9bd-odj6c5.jpg"
-                      style={{ height: "50%", width: "55%" }}
-                    />
-                  </Center>
-                </p>
+                <Center>
+                  <img
+                    src="https://utfs.io/f/2098394a-6691-4098-9d7d-a73a17a8e9bd-odj6c5.jpg"
+                    style={{ height: "50%", width: "55%" }}
+                  />
+                </Center>
               </div>
             </Box>
           </GridCol>
@@ -55,6 +53,7 @@ export default function Home() {
                 </h3>
                 <h3>사랑해요,</h3>
                 <h3>아들</h3>
+                <h3>----------</h3>
                 <h3>어머님~</h3>
                  <h3>생신 축하드려요~ 항상 맛있는 것과, 아름다운 것 그리고 건강과 사랑이 가득한 하루하루 되시길 바라요!</h3>
                  <h3>며느리 드림</h3>
@@ -76,14 +75,12 @@ export default function Home() {
                     ...to here
                   </h3>
                 </Center>
-                <p>
-                  <Center>
-                    <img
-                      src="https://utfs.io/f/1e40273a-5a69-4b61-a64b-535450f8aa59-ip9wn4.jpeg"
-                      style={{ height: "50%", width: "50%" }}
-                    />
-                  </Center>
-                </p>
+                <Center>
+                  <img
+                    src="https://utfs.io/f/1e40273a-5a69-4b61-a64b-535450f8aa59-ip9wn4.jpeg"
+                    style={{ height: "50%", width: "50%" }}
+                  />
+                </Center>
               </div>
             </Box>
           </GridCol>
