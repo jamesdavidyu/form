@@ -57,6 +57,7 @@ export default function Home() {
                 <h3>어머님~</h3>
                  <h3>생신 축하드려요~ 항상 맛있는 것과, 아름다운 것 그리고 건강과 사랑이 가득한 하루하루 되시길 바라요!</h3>
                  <h3>며느리 드림</h3>
+                 <UserButton />
               </div>
             </Box>
           </GridCol>
